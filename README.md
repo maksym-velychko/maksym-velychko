@@ -47,32 +47,32 @@ I love transforming raw data into insights, visualizations, and deployable ML mo
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ## 📝 Personal Projects
-- [Dynamic Pricing Predictor – End-to-End ML System](https://github.com/Maksim124512M/Dynamic-Pricing-Predictor) <br>
+- [Dynamic Pricing Predictor – End-to-End ML System](https://github.com/maksym-velychko/Dynamic-Pricing-Predictor) <br>
    ➤ Built a dynamic pricing predictor with Linear Regression and Random Forest models using ColumnTransformer and Pipelines <br>
    ➤ Implemented hyperparameter tuning with GridSearch and monitored experiments with MLflow <br>
    ➤ Deployed as a FastAPI inference service in Docker with real-time and batch processing support <br>
    ➤ Result: Reduced manual pricing effort, with robust pipelines and monitoring for model drift <br>
    
-- [MLBuddy — AutoML Telegram bot](https://github.com/Maksim124512M/MLBuddy) <br>
+- [MLBuddy — AutoML Telegram bot](https://github.com/maksym-velychko/MLBuddy) <br>
    ➤ Built a Telegram bot that trains on user datasets and compares multiple ML models (regression/classification) using Pipelines and ColumnTransformer <br>
    ➤ Implemented automatic model selection with hyperparameter tuning, tracking metrics internally <br>
    ➤ Deployed as a FastAPI service with PostgreSQL database and Celery/Redis for asynchronous tasks, containerized with Docker <br>
    ➤ Result: Delivered the best-performing model to users with optimal hyperparameters, enabling automated ML workflows with real-time feedback <br>
    
-- [Youtube sentiment analyzer](https://github.com/Maksim124512M/Youtube-Sentiment-Analyzer)  
+- [Youtube sentiment analyzer](https://github.com/maksym-velychko/Youtube-Sentiment-Analyzer)  
    ➤ Built sentiment analysis pipeline using Hugging Face Transformers to classify YouTube comments as positive, negative, or neutral <br>
    ➤ Created FastAPI endpoint to serve analysis results and generate sentiment plots in real-time <br>
    ➤ Logged experiments, metrics, and models with MLflow for reproducibility and tracking <br>
    ➤ Packaged model, API, and dependencies in Docker for easy deployment <br>
 
-- [LibraFlow – Digital Library API](https://github.com/Maksim124512M/LibraFlow)  
+- [LibraFlow – Digital Library API](https://github.com/maksym-velychko/LibraFlow)  
    ➤ CRUD for books, authors, genres <br>
    ➤ Implemented search, filtering <br>
    ➤ Developed an automatic task with Celery for a checking  book rentals <br>
    ➤ Integrated Stripe API for book rental payments <br>
    ➤ Created Docker and Docker Compose containerization <br>
 
-👉 Check out [more projects](https://github.com/Maksim124512M?tab=repositories)!
+👉 Check out [more projects](https://github.com/maksym-velychko?tab=repositories)!
 
 ## 📜 Certificates
 
